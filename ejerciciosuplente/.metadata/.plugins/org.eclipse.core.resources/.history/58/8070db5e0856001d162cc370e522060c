@@ -1,0 +1,18 @@
+package animal;
+
+import javax.swing.JOptionPane;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		Gatoo leia = new Gatoo ("leia", "atigrada", 1,"si");
+		JOptionPane.showMessageDialog(null,leia);
+		
+		
+		
+		
+	}
+	
+
+}
